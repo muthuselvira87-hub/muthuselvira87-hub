@@ -64,11 +64,11 @@
 ### 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/muthuselvi-r-a-037128350">
     LinkedIn
   </a>
   |
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/muthuselvira87-hub">
     GitHub
   </a>
 </p>
