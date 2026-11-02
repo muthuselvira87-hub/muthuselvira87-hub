@@ -35,10 +35,6 @@
 - Supports positive, negative, and boundary test cases.
 - Built with Python and Streamlit.
 
-**2. To-Do Application**
-- Designed to manage daily tasks.
-- Exploring system design and database relationships.
-
 ---
 
 ### 📊 GitHub Statistics
@@ -52,15 +48,6 @@
 </p>
 
 ---
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p>
